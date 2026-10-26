@@ -36,3 +36,5 @@ winniecraftapp@icloud.com
 ## プライバシーポリシー
 
 https://winniecraftsoftware.github.io/cadence-support/privacy.html
+
+[English](support-en.html)

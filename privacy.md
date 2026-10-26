@@ -54,3 +54,5 @@ cadence(以下「本アプリ」)は、暮らしの用事と楽しみの記録�
 ## 8. 連絡先
 
 winniecraftapp@icloud.com
+
+[English](privacy-en.html)
