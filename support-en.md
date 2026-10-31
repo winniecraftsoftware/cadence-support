@@ -26,6 +26,18 @@ Yes, between devices signed in to iCloud with the same Apple ID. Check the statu
 **Switching to a new iPhone?**
 Sign in with the same Apple ID and your data comes over from iCloud. You can also keep a file copy with Settings → Export.
 
+**How much does it cost?**
+The download is free, and every feature is available for the first 30 days. To keep recording and adding after that, a one-time purchase is required (not a subscription). Without purchasing, you can always view and export the records you already have.
+
+**How do I purchase?**
+Go to Settings → Purchase → Buy. After the 30 days, tapping record or add also opens the same purchase screen.
+
+**I purchased, but another device or a reinstall shows it as not purchased.**
+Tap Settings → Purchase → Restore Purchase. If you're signed in to the App Store with the Apple ID you used to buy, it's restored at no extra cost. Family Sharing is supported.
+
+**I'm not getting notifications.**
+Check that notifications are allowed in the iPhone's Settings → Notifications → cadence. Notifications arrive a few days before, on, and 3 days after the target date, at the time you choose in cadence's Settings → Notification time. Items without a cycle yet (recorded only once with no cycle set) don't get notifications.
+
 **How do I delete data?**
 Use "Delete this item" on an item's screen. Deleted data can't be restored.
 
