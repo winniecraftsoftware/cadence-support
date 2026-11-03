@@ -9,6 +9,10 @@ permalink: /support-en.html
 
 cadence helps you keep the recurring chores and joys of daily life — haircuts, contact lens changes, cleaning, restocking supplies — on cycles you decide yourself. As you record, each cycle gently adjusts to your actual intervals. Your data stays on your device and in your own iCloud.
 
+## Download
+
+https://apps.apple.com/us/app/id6826986710
+
 ## FAQ
 
 **Can I add something without knowing its cycle?**
