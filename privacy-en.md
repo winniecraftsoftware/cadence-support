@@ -38,7 +38,7 @@ Because the developer holds none of your information, nothing is shared with thi
 
 ## 5. Exporting and deleting your data
 
-- Export: Settings → Export lets you save all items and records as a file (optionally including photos).
+- Export: Settings → Backup → Export lets you save all items and records as a file (optionally including photos).
 - Delete: "Delete this item" on an item's screen removes it with its records and photos, including from your other synced devices. Deleting the app removes the data on that device. Data remaining in iCloud can be deleted from Settings → your name → iCloud → Manage Storage on your iPhone.
 
 ## 6. Children

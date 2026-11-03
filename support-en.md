@@ -28,7 +28,7 @@ Use Skip when you didn't need it this time, and Postpone when you couldn't do it
 Yes, between devices signed in to iCloud with the same Apple ID. Check the status in Settings → Sync.
 
 **Switching to a new iPhone?**
-Sign in with the same Apple ID and your data comes over from iCloud. You can also keep a file copy with Settings → Export.
+Sign in with the same Apple ID and your data comes over from iCloud. You can also keep a file copy with Settings → Backup → Export, and bring it back with Import.
 
 **How much does it cost?**
 The download is free, and every feature is available for the first 30 days. To keep recording and adding after that, a one-time purchase is required (not a subscription). Without purchasing, you can always view and export the records you already have.
@@ -40,7 +40,7 @@ Go to Settings → Purchase → Buy. After the 30 days, tapping record or add al
 Tap Settings → Purchase → Restore Purchase. If you're signed in to the App Store with the Apple ID you used to buy, it's restored at no extra cost. Family Sharing is supported.
 
 **I'm not getting notifications.**
-Check that notifications are allowed in the iPhone's Settings → Notifications → cadence. Notifications arrive a few days before, on, and 3 days after the target date, at the time you choose in cadence's Settings → Notification time. Items without a cycle yet (recorded only once with no cycle set) don't get notifications.
+Check that notifications are allowed in the iPhone's Settings → Notifications → cadence. Notifications arrive as one daily summary of what's coming up, at the time you choose in cadence's Settings → Notification time. The app icon shows how many chores have reached their target date (joys aren't counted). Items without a cycle yet (recorded only once with no cycle set) don't get notifications.
 
 **How do I delete data?**
 Use "Delete this item" on an item's screen. Deleted data can't be restored.
