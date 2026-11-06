@@ -42,6 +42,12 @@ Tap Settings → Purchase → Restore Purchase. If you're signed in to the App S
 **I'm not getting notifications.**
 Check that notifications are allowed in the iPhone's Settings → Notifications → cadence. Notifications arrive as one daily summary of what's coming up, at the time you choose in cadence's Settings → Notification time. The app icon shows how many chores have reached their target date (joys aren't counted). Items without a cycle yet (recorded only once with no cycle set) don't get notifications.
 
+**What's the note at the top of Home?**
+That's Today's Suggestion — a short note on what's worth doing today, based on the items coming up. On devices with Apple Intelligence it's written by the on-device model; on other devices a fixed sentence is shown. Either way, nothing leaves your device.
+
+**Can I use it with Siri or Shortcuts?**
+In the Shortcuts app, cadence offers "Coming Up", "Record", "Undo Today's Record" and "Open Item". To use them with Siri, the most reliable way is to make a shortcut with them and say that shortcut's name. Items also appear in Spotlight. After the 30 days without purchasing, "Record" and "Undo Today's Record" aren't available ("Coming Up" and "Open Item" still are).
+
 **How do I delete data?**
 Use "Delete this item" on an item's screen. Deleted data can't be restored.
 
